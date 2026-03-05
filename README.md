@@ -1,2 +1,8 @@
 # Voyage-Management-System
-Voyage Management System database project built using Oracle SQL . it manages vessels , voyage routes , cruises , cabins ,and booking information
+Database : Oracle sql 
+Tables :
+- Vessels
+- Voyage_Routes
+- Cruises
+- Cabins
+- Bookings
